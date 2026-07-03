@@ -10,7 +10,7 @@ export const es = {
   hero: {
     brand: 'Gato Programador',
     name: 'Javier Collipal',
-    title: 'Desarrollador Backend Senior',
+    title: 'Desarrollador Backend',
     subtitle: 'Python · Node.js · AWS · LLMs & Vector Search',
     description:
       'Construyo sistemas backend robustos, microservicios escalables e integraciones con IA. Apasionado por automatización, LLMOps y arquitecturas cloud.',
@@ -20,7 +20,7 @@ export const es = {
   about: {
     title: 'Sobre mí',
     p1: 'Soy Javier Collipal, desarrollador backend con más de 6 años de experiencia construyendo productos en producción para startups y empresas en Chile y Latinoamérica.',
-    p2: 'Me especializo en Python, Node.js y arquitecturas cloud (AWS, Azure). En los últimos años he trabajado activamente con LLMs, RAG y búsqueda vectorial — integrando Azure OpenAI y SpaCy para productos reales en producción.',
+    p2: 'Me especializo en Python, Node.js y arquitecturas cloud (AWS, Azure). En los últimos años he trabajado activamente con LLMs, RAG y búsqueda vectorial — integrando Azure OpenAI para productos reales en producción.',
     p3: 'Trabajo de forma remota, sigo metodología Scrum y tengo inglés B2 / C1 certificado (EF SET). Siempre buscando llevar la IA al siguiente nivel del producto.',
     education: 'Analista Programador — INACAP, 2017',
     english: 'Inglés B2 (EF SET C1 certificado)',
@@ -168,7 +168,6 @@ export const es = {
     title: 'Contacto',
     subtitle: '¿Tienes un proyecto o quieres hablar? Escríbeme.',
     email: 'jcollipal1212@gmail.com',
-    phone: '+56 9 76021776',
     github: 'GatoProgramador-01',
     sendEmail: 'Enviar email',
   },
