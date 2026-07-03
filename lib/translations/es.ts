@@ -10,7 +10,7 @@ export const es = {
   hero: {
     brand: 'Gato Programador',
     name: 'Javier Collipal',
-    title: 'Desarrollador Backend',
+    title: 'Desarrollador Full Stack',
     subtitle: 'Python · Node.js · AWS · LLMs & Vector Search',
     description:
       'Construyo sistemas backend robustos, microservicios escalables e integraciones con IA. Apasionado por automatización, LLMOps y arquitecturas cloud.',
